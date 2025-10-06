@@ -136,3 +136,5 @@ Les contributions sont les bienvenues ! Zones d'amélioration possibles :
 
 **Développé avec ❤️ en C#** - Un projet démontrant l'application du développement logiciel à la finance quantitative.
 
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)
+![C#](https://img.shields.io/badge/C%23-239120)
